@@ -1,0 +1,13 @@
+{
+  "title": "ค้นหา Excel Function",
+  "search_placeholder": "พิมพ์ชื่อฟังก์ชัน...",
+  "result_title": "ผลลัพธ์",
+  "category": "หมวดหมู่",
+  "description": "คำอธิบาย",
+  "syntax": "รูปแบบ",
+  "example": "ตัวอย่าง",
+  "no_match": "ไม่พบฟังก์ชันที่ต้องการ",
+  "close_match": "ใกล้เคียงที่สุด:",
+  "step_by_step": "ขั้นตอนการใช้งาน",
+  "step": "ขั้นตอนที่"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Search Excel Functions",
+  "search_placeholder": "Type a function name...",
+  "result_title": "Result",
+  "category": "Category",
+  "description": "Description",
+  "syntax": "Syntax",
+  "example": "Example",
+  "no_match": "No function found.",
+  "close_match": "Closest match:",
+  "step_by_step": "Step-by-Step Tutorial",
+  "step": "Step"
+}
